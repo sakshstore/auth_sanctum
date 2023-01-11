@@ -1,0 +1,1 @@
+[11-Jan-2023 12:04:18 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/vikkinbot/laraauth9/routes/api.php on line 7
